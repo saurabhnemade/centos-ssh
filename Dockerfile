@@ -1,4 +1,4 @@
-FROM centos:7.6.1810
+FROM centos/systemd
 
 ARG RELEASE_VERSION="2.6.0"
 
